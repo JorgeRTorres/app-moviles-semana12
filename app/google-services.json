@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028028405354",
+    "project_id": "adroididat",
+    "storage_bucket": "adroididat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028028405354:android:ef0f91073de5f3e4165c13",
+        "android_client_info": {
+          "package_name": "com.example.idatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8pliUx-dCP0Vtms8wTp6rqTZRxJs9cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
